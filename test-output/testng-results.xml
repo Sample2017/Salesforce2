@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3577438" started-at="2017-09-13T20:49:43Z" finished-at="2017-09-13T21:49:20Z">
+  <suite name="Default suite" duration-ms="52541" started-at="2017-09-21T01:26:56Z" finished-at="2017-09-21T01:27:48Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="3577438" started-at="2017-09-13T20:49:43Z" finished-at="2017-09-13T21:49:20Z">
-      <class name="com.testing.Cliniops.Cliniops_DriverScriptTest">
-        <test-method status="PASS" signature="beforeSuiteExecution()[pri:0, instance:com.testing.Cliniops.Cliniops_DriverScriptTest@457e2f02]" name="beforeSuiteExecution" is-config="true" duration-ms="315" started-at="2017-09-13T13:49:43Z" finished-at="2017-09-13T13:49:43Z">
+    <test name="Default test" duration-ms="52541" started-at="2017-09-21T01:26:56Z" finished-at="2017-09-21T01:27:48Z">
+      <class name="com.testing.Cliniops.DriverScriptTest">
+        <test-method status="PASS" signature="Driver()[pri:0, instance:com.testing.Cliniops.DriverScriptTest@68be2bc2]" name="Driver" duration-ms="52520" started-at="2017-09-20T18:26:56Z" finished-at="2017-09-20T18:27:48Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- beforeSuiteExecution -->
-        <test-method status="PASS" signature="cliniopsDriver()[pri:0, instance:com.testing.Cliniops.Cliniops_DriverScriptTest@457e2f02]" name="cliniopsDriver" duration-ms="3577417" started-at="2017-09-13T13:49:43Z" finished-at="2017-09-13T14:49:20Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- cliniopsDriver -->
-      </class> <!-- com.testing.Cliniops.Cliniops_DriverScriptTest -->
+        </test-method> <!-- Driver -->
+      </class> <!-- com.testing.Cliniops.DriverScriptTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
