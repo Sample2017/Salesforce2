@@ -22,7 +22,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
   
-public class ReusableMethodsTest {  
+public class ReusableMethodsTest {   
 	public static void clickElement(WebElement obj, String objName) throws IOException{
 		if(obj.isDisplayed()){
 			obj.click();
