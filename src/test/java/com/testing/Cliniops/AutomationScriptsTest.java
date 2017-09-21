@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
     
-  
+    
 public class AutomationScriptsTest extends ReusableMethodsTest{
 	static WebDriver dr;
 
